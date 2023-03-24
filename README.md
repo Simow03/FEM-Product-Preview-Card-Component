@@ -14,6 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -102,3 +103,7 @@ And always "No matter how much you learned, there is always more .." and that's 
 
 - Frontend Mentor - [@Simow03](https://www.frontendmentor.io/profile/Simow03)
 - Twitter - [@mx7staali](https://twitter.com/mx7staali)
+
+## Acknowledgments
+
+This is just a quick thanks to [@ecemgo](https://www.frontendmentor.io/profile/ecemgo) that shows me the trick of the ```min-height: 100vh;``` which helps to center and makes the page a lot easier to compare in frontend mentor mode.
