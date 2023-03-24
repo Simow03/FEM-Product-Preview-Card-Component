@@ -83,7 +83,7 @@ In this project, I used it to differentiate between the prices with the followin
     width: 1px;
 }
 ```
-What this does is the ```<span>``` is still readable for the screen reader but it's not shown on the screen. So that you can keep up between the look and the utility.
+What this does is the ```<span>```  is still readable for the screen reader but it's not shown on the screen. So that you can keep up between the look and the utility.
 
 This is a very interesting topic, can be so useful in much bigger sites(There is a link in [Useful resources](#useful-resources) part for a more detailed blog about the hidden content!)
 
