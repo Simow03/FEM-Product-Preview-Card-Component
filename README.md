@@ -59,7 +59,7 @@ like this :
         <img src="./images/image-product-mobile.jpg" alt="Gabrielle-Chanel-perfume">
 </picture>
 ```
-So the <picture> tag contains the two versions of the picture itself, and the attribute "media=()" in the <source> working actually like a media query whitch tells the picture to switch to the version that in "srcset" when it hits the width of 700px; Otherwise it will show the picture in the <img> tag.
+So the ```html<picture>``` tag contains the two versions of the picture itself, and the attribute "media=()" in the <source> working actually like a media query whitch tells the picture to switch to the version that in "srcset" when it hits the width of 700px; Otherwise it will show the picture in the <img> tag.
 
 Another useful thing is the "screen-reader only" concept, basically it's an additional feature that allows people using the screen reader to have a bigger understanding of what is going on the actual page. 
 
