@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live product card](https://main--startling-profiterole-8b52f0.netlify.app/)
 
 ## My process
 
