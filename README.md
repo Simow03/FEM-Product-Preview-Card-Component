@@ -106,4 +106,4 @@ And always "No matter how much you learned, there is always more .." and that's 
 
 ## Acknowledgments
 
-This is just a quick thanks to [@ecemgo](https://www.frontendmentor.io/profile/ecemgo) that shows me the trick of the ```min-height: 100vh;``` which helps to center and makes the page a lot easier to compare in frontend mentor mode.
+This is just a quick thanks to [@ecemgo](https://www.frontendmentor.io/profile/ecemgo) for showing me the trick of the ```min-height: 100vh;``` which helps to center and makes the page a lot easier to compare in frontend mentor mode.
