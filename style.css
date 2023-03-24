@@ -164,6 +164,10 @@ body {
 
 /*?---------- Media Queries (desktop v) ----------*/
 @media (min-width: 700px) {
+    body {
+        min-height: 100vh;
+    }
+    
     .product-card {
         --content-padding: 2rem;
 
